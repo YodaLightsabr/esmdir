@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "esmdir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YodaLightsabr",
+  "license": "MIT",
+  "description": "Fast ESModules __dirname alternative",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yodalightsabr/esmdir.git"
+  },
+  "keywords": [
+    "__dirname"
+  ],
+  "bugs": {
+    "url": "https://github.com/yodalightsabr/esmdir/issues"
+  },
+  "homepage": "https://github.com/yodalightsabr/esmdir#readme"
+}
